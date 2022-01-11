@@ -1,0 +1,57 @@
+[
+    {
+        "nome": "PEDIGREE₢",
+        "logo": "https://i.imgur.com/zxPLkIi.png",
+        "categoria": "$$$",
+        "destaque": 1,
+        "location": {
+            "lat": -23.561684,
+            "lng": -46.6265378
+        },
+        "produtos": [
+            {
+                "nome": "Pedigree₢ Filhotes raças médias e grandes 1kg",
+                "capa": "https://i.imgur.com/06bVol3.png",
+                "preco": 18.00,
+                "avaliacao": 4.5
+            }
+        ]
+    },
+    {
+        "nome": "PREMIER",
+        "logo": "https://i.imgur.com/8UJWAQx.png",
+        "categoria": "$$$",
+        "destaque": 1,
+        "location": {
+            "lat": -23.561684,
+            "lng": -46.6265378
+        },
+        "produtos": [
+            {
+                "nome": "Pedigree₢ Filhotes raças médias e grandes 1kg",
+                "capa": "https://i.imgur.com/06bVol3.png",
+                "preco": 18.00,
+                "avaliacao": 4.5
+            }
+        ]
+    },
+    {
+        "nome": "PREMIER",
+        "logo": "https://i.imgur.com/8UJWAQx.png",
+        "categoria": "$$$",
+        "destaque": 1,
+        "location": {
+            "lat": -23.561684,
+            "lng": -46.6265378
+        },
+        "produtos": [
+            {
+                "nome": "Pedigree₢ Filhotes raças médias e grandes 1kg",
+                "capa": "https://i.imgur.com/06bVol3.png",
+                "preco": 18.00,
+                "avaliacao": 4.5
+            }
+        ]
+    }
+    
+]

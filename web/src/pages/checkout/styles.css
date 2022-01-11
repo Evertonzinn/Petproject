@@ -1,0 +1,16 @@
+.section-title {
+    border-bottom: 2px solid rgb(var(--primary));
+    padding-bottom: 7px;
+    margin: 20px 0;
+    display: inline-block;
+}
+
+.input {
+    font-size: 15px;
+}
+
+.box-sidebar {
+    max-height: 500px;
+    overflow-y: auto;
+}
+
